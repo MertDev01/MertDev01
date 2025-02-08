@@ -4,16 +4,6 @@
 #### My Name is Mert and I’m a Developer.
 
 ---
-
-### About me
-
-✨ Creating bugs since...  
-📚 I'm currently learning...  
-🎯 Goals: ...  
-🎲 Fun fact: ...
-
----
-
 ### I code with:
 
 #### Programming Languages
